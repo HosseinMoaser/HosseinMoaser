@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HosseinMoaser
 - 👀 I’m interested in software development and AI
-- 🌱 I’m currently learning Test Driven Development and machine learning.
+- 🌱 I’m currently learning Blazor WASM.
 - 💞️ I’m looking to collaborate on AI projects and software development projects.
 - 📫 How to reach me: moaser.hossein@gmail.com 
 
