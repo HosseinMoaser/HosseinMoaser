@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HosseinMoaser
 - 👀 I’m interested in software development and AI
-- 🌱 I’m currently learning Advanced machine learning techniques.
+- 🌱 I’m currently working on LLM based AI agents.
 - 💞️ I’m looking to collaborate on AI projects and software development projects.
 - 📫 How to reach me: moaser.hossein@gmail.com 
 
